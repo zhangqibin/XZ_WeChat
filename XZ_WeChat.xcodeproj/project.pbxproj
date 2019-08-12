@@ -12,7 +12,6 @@
 		5F80D5C61D9A432A00F8D164 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D5C51D9A432A00F8D164 /* UIView+Extension.m */; };
 		5F80D5D01D9A46B000F8D164 /* XZGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D5CF1D9A46B000F8D164 /* XZGroup.m */; };
 		5F80D5D31D9A46D200F8D164 /* XZUser.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D5D21D9A46D200F8D164 /* XZUser.m */; };
-		5F80D5F01D9A4B7900F8D164 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5F80D5D61D9A4B7900F8D164 /* Info.plist */; };
 		5F80D5F11D9A4B7900F8D164 /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D5D81D9A4B7900F8D164 /* MASCompositeConstraint.m */; };
 		5F80D5F21D9A4B7900F8D164 /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D5DB1D9A4B7900F8D164 /* MASConstraint.m */; };
 		5F80D5F31D9A4B7900F8D164 /* MASConstraintMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D5DD1D9A4B7900F8D164 /* MASConstraintMaker.m */; };
@@ -39,7 +38,6 @@
 		5F80D6341D9A60E500F8D164 /* ICEmotionMenuButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D62A1D9A60E500F8D164 /* ICEmotionMenuButton.m */; };
 		5F80D6351D9A60E500F8D164 /* ICEmotionPageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D62C1D9A60E500F8D164 /* ICEmotionPageView.m */; };
 		5F80D6501D9A6BD500F8D164 /* ICMessageConst.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D64F1D9A6BD500F8D164 /* ICMessageConst.m */; };
-		5F80D6681D9A6DE200F8D164 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5F80D6521D9A6DE200F8D164 /* Info.plist */; };
 		5F80D6691D9A6DE200F8D164 /* MJExtensionConst.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D6551D9A6DE200F8D164 /* MJExtensionConst.m */; };
 		5F80D66A1D9A6DE200F8D164 /* MJFoundation.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D6571D9A6DE200F8D164 /* MJFoundation.m */; };
 		5F80D66B1D9A6DE200F8D164 /* MJProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F80D6591D9A6DE200F8D164 /* MJProperty.m */; };
@@ -105,8 +103,6 @@
 		5F80D7241D9BCD3700F8D164 /* mahuateng.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5F80D7231D9BCD3700F8D164 /* mahuateng.jpeg */; };
 		5F80D7271D9BCF5100F8D164 /* emoji.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5F80D7251D9BCF5100F8D164 /* emoji.plist */; };
 		5F80D72C1D9BD03C00F8D164 /* normal_face.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5F80D72B1D9BD03C00F8D164 /* normal_face.plist */; };
-		5FBCC1051D9A17B000AD6A6B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FBCC1041D9A17B000AD6A6B /* main.m */; };
-		5FBCC1081D9A17B000AD6A6B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FBCC1071D9A17B000AD6A6B /* AppDelegate.m */; };
 		5FBCC1101D9A17B000AD6A6B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5FBCC10F1D9A17B000AD6A6B /* Assets.xcassets */; };
 		5FBCC11E1D9A17B000AD6A6B /* XZ_WeChatTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FBCC11D1D9A17B000AD6A6B /* XZ_WeChatTests.m */; };
 		5FBCC1291D9A17B000AD6A6B /* XZ_WeChatUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FBCC1281D9A17B000AD6A6B /* XZ_WeChatUITests.m */; };
@@ -116,6 +112,8 @@
 		5FBCC1591D9A242C00AD6A6B /* XZContactViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FBCC1581D9A242C00AD6A6B /* XZContactViewController.m */; };
 		5FBCC15C1D9A244C00AD6A6B /* XZMessageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FBCC15B1D9A244C00AD6A6B /* XZMessageViewController.m */; };
 		5FBCC15F1D9A246000AD6A6B /* XZMineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FBCC15E1D9A246000AD6A6B /* XZMineViewController.m */; };
+		FB5EDE6C23014948005EF0E9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FB5EDE6923014948005EF0E9 /* AppDelegate.m */; };
+		FB5EDE6D23014948005EF0E9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FB5EDE6A23014948005EF0E9 /* main.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -147,7 +145,6 @@
 		5F80D5CF1D9A46B000F8D164 /* XZGroup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XZGroup.m; sourceTree = "<group>"; };
 		5F80D5D11D9A46D200F8D164 /* XZUser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XZUser.h; sourceTree = "<group>"; };
 		5F80D5D21D9A46D200F8D164 /* XZUser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XZUser.m; sourceTree = "<group>"; };
-		5F80D5D61D9A4B7900F8D164 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5F80D5D71D9A4B7900F8D164 /* MASCompositeConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASCompositeConstraint.h; sourceTree = "<group>"; };
 		5F80D5D81D9A4B7900F8D164 /* MASCompositeConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASCompositeConstraint.m; sourceTree = "<group>"; };
 		5F80D5D91D9A4B7900F8D164 /* MASConstraint+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MASConstraint+Private.h"; sourceTree = "<group>"; };
@@ -207,7 +204,6 @@
 		5F80D64D1D9A6BD500F8D164 /* ICChatServerDefs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICChatServerDefs.h; sourceTree = "<group>"; };
 		5F80D64E1D9A6BD500F8D164 /* ICMessageConst.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICMessageConst.h; sourceTree = "<group>"; };
 		5F80D64F1D9A6BD500F8D164 /* ICMessageConst.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICMessageConst.m; sourceTree = "<group>"; };
-		5F80D6521D9A6DE200F8D164 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5F80D6531D9A6DE200F8D164 /* MJExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJExtension.h; sourceTree = "<group>"; };
 		5F80D6541D9A6DE200F8D164 /* MJExtensionConst.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJExtensionConst.h; sourceTree = "<group>"; };
 		5F80D6551D9A6DE200F8D164 /* MJExtensionConst.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJExtensionConst.m; sourceTree = "<group>"; };
@@ -339,9 +335,6 @@
 		5F80D7251D9BCF5100F8D164 /* emoji.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = emoji.plist; sourceTree = "<group>"; };
 		5F80D72B1D9BD03C00F8D164 /* normal_face.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = normal_face.plist; sourceTree = "<group>"; };
 		5FBCC1001D9A17B000AD6A6B /* XZ_WeChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XZ_WeChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		5FBCC1041D9A17B000AD6A6B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ../../main.m; sourceTree = "<group>"; };
-		5FBCC1061D9A17B000AD6A6B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ../../AppDelegate.h; sourceTree = "<group>"; };
-		5FBCC1071D9A17B000AD6A6B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = ../../AppDelegate.m; sourceTree = "<group>"; };
 		5FBCC10F1D9A17B000AD6A6B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5FBCC1141D9A17B000AD6A6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5FBCC1191D9A17B000AD6A6B /* XZ_WeChatTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XZ_WeChatTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -364,6 +357,9 @@
 		5FBCC15E1D9A246000AD6A6B /* XZMineViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XZMineViewController.m; sourceTree = "<group>"; };
 		5FBCC1601D9A379200AD6A6B /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 		5FBCC1611D9A388000AD6A6B /* XZConstants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XZConstants.h; sourceTree = "<group>"; };
+		FB5EDE6923014948005EF0E9 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = XZ_WeChat/AppDelegate.m; sourceTree = SOURCE_ROOT; };
+		FB5EDE6A23014948005EF0E9 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = XZ_WeChat/main.m; sourceTree = SOURCE_ROOT; };
+		FB5EDE6B23014948005EF0E9 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = XZ_WeChat/AppDelegate.h; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -440,7 +436,6 @@
 		5F80D5D51D9A4B7900F8D164 /* Masonry */ = {
 			isa = PBXGroup;
 			children = (
-				5F80D5D61D9A4B7900F8D164 /* Info.plist */,
 				5F80D5D71D9A4B7900F8D164 /* MASCompositeConstraint.h */,
 				5F80D5D81D9A4B7900F8D164 /* MASCompositeConstraint.m */,
 				5F80D5D91D9A4B7900F8D164 /* MASConstraint+Private.h */,
@@ -597,7 +592,6 @@
 		5F80D6511D9A6DE200F8D164 /* MJExtension */ = {
 			isa = PBXGroup;
 			children = (
-				5F80D6521D9A6DE200F8D164 /* Info.plist */,
 				5F80D6531D9A6DE200F8D164 /* MJExtension.h */,
 				5F80D6541D9A6DE200F8D164 /* MJExtensionConst.h */,
 				5F80D6551D9A6DE200F8D164 /* MJExtensionConst.m */,
@@ -897,9 +891,9 @@
 		5FBCC13E1D9A1E4900AD6A6B /* Other */ = {
 			isa = PBXGroup;
 			children = (
-				5FBCC1061D9A17B000AD6A6B /* AppDelegate.h */,
-				5FBCC1071D9A17B000AD6A6B /* AppDelegate.m */,
-				5FBCC1041D9A17B000AD6A6B /* main.m */,
+				FB5EDE6B23014948005EF0E9 /* AppDelegate.h */,
+				FB5EDE6923014948005EF0E9 /* AppDelegate.m */,
+				FB5EDE6A23014948005EF0E9 /* main.m */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -1111,6 +1105,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -1132,10 +1127,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				5F80D7271D9BCF5100F8D164 /* emoji.plist in Resources */,
-				5F80D6681D9A6DE200F8D164 /* Info.plist in Resources */,
 				5F80D60A1D9A57A700F8D164 /* mayun.jpg in Resources */,
 				5F80D72C1D9BD03C00F8D164 /* normal_face.plist in Resources */,
-				5F80D5F01D9A4B7900F8D164 /* Info.plist in Resources */,
 				5FBCC1101D9A17B000AD6A6B /* Assets.xcassets in Resources */,
 				5F80D7241D9BCD3700F8D164 /* mahuateng.jpeg in Resources */,
 				5F80D7151D9B677D00F8D164 /* LICENSE in Resources */,
@@ -1171,7 +1164,6 @@
 				5F80D6C51D9A70E500F8D164 /* ICChatMessageVoiceCell.m in Sources */,
 				5F80D6BE1D9A70E500F8D164 /* ICChatMessageBaseCell.m in Sources */,
 				5F80D6C21D9A70E500F8D164 /* ICChatMessageSyeCell.m in Sources */,
-				5FBCC1081D9A17B000AD6A6B /* AppDelegate.m in Sources */,
 				5F80D6E91D9A7AE400F8D164 /* ICTools.m in Sources */,
 				5FBCC1591D9A242C00AD6A6B /* XZContactViewController.m in Sources */,
 				5F80D6C01D9A70E500F8D164 /* ICChatMessageImageCell.m in Sources */,
@@ -1183,6 +1175,7 @@
 				5F80D71D1D9BA44300F8D164 /* UIGestureRecognizer+YYAdd.m in Sources */,
 				5F80D70F1D9B5DB200F8D164 /* ICAVPlayer.m in Sources */,
 				5F80D6FF1D9A7D8800F8D164 /* VoiceConverter.mm in Sources */,
+				FB5EDE6C23014948005EF0E9 /* AppDelegate.m in Sources */,
 				5F80D6001D9A4C4100F8D164 /* XZMessageCell.m in Sources */,
 				5F80D6DD1D9A71CB00F8D164 /* ICVideoManager.m in Sources */,
 				5F80D6E01D9A71FF00F8D164 /* ICHeadImageView.m in Sources */,
@@ -1245,7 +1238,6 @@
 				5F80D6C31D9A70E500F8D164 /* ICChatMessageTextCell.m in Sources */,
 				5F80D69A1D9A70DB00F8D164 /* ICMessageTopView.m in Sources */,
 				5F80D6C11D9A70E500F8D164 /* ICChatMessageShareCell.m in Sources */,
-				5FBCC1051D9A17B000AD6A6B /* main.m in Sources */,
 				5F80D6D91D9A71CB00F8D164 /* ICFileTool.m in Sources */,
 				5F80D6BD1D9A70E500F8D164 /* ICChatForwardCell.m in Sources */,
 				5F80D5C31D9A429F00F8D164 /* XZGroupSearchController.m in Sources */,
@@ -1259,6 +1251,7 @@
 				5F80D6CB1D9A716400F8D164 /* UIResponder+GXRouter.m in Sources */,
 				5F80D62D1D9A60E500F8D164 /* ICChatBox.m in Sources */,
 				5F80D6A01D9A70DB00F8D164 /* ICVoiceHud.m in Sources */,
+				FB5EDE6D23014948005EF0E9 /* main.m in Sources */,
 				5F80D6501D9A6BD500F8D164 /* ICMessageConst.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
